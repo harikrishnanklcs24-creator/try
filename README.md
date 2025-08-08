@@ -1,89 +1,90 @@
-Thera Para 🎯
-Basic Details
-Team Name: Ctrl Alt Deliberately Lost
+# Runaway Login Button (The Most Annoying Security Feature Ever) 🎯
 
-Team Members
-Team Lead: Harikrishnan K – Lost-and-Found University
-Member 2: Alex P – College of Wrong Turns
-Member 3: Priya M – Detour Institute of Technology
+## Basic Details
+**Team Name:** Junior Mandrake  
+**Team Lead:** Harikrishnan K  
 
-Project Description
-Thera Para is a parody navigation website that uses your camera, TensorFlow.js, and a pinch of chaos to tell you where to go — but in the most unhelpful way possible. Directions are random or hilariously based on where you’re standing in the frame.
+---
 
-The Problem (that doesn't exist)
-People are finding their destinations too easily. The thrill of getting lost is dying in the GPS era.
+## Project Description
+We built a login page where the button *runs away* when you enter wrong credentials.  
+No more boring “Invalid Password” messages — now the button physically escapes your mouse cursor like it owes you money!
 
-The Solution (that nobody asked for)
-We built a web app that proudly ignores actual maps and GPS — instead, it uses your camera to give you “fun” directions like LEFT, RIGHT, STRAIGHT, or BACK, whether they make sense or not.
+---
 
-Technical Details
-Technologies/Components Used
-For Software:
+## The Problem (That Doesn’t Exist)
+- **Boring Authentication UX**
+- Login screens lack engagement and personality
 
-Languages: HTML, CSS, JavaScript
+---
 
-Frameworks: None (pure chaos, pure JS)
+## The Solution (That Nobody Asked For)
+We gamified authentication with interactive elements.
 
-Libraries: TensorFlow.js, COCO-SSD model
+**Key Features:**
+- ✅ Wrong credentials = button runs away — users must *chase* it to retry
+- ✅ Real-time input validation — instant feedback without clicking submit
+- ✅ Progressive difficulty — more failed attempts = faster, trickier movement
+- ✅ Bot-resistant — moving elements break automated scripts
 
-Tools: VS Code, Chrome DevTools, caffeine
+---
 
-For Hardware:
+## Technical Details
 
-Laptop with a working webcam (or a phone)
+### Technologies Used
+**Frontend:** HTML, CSS, JavaScript (Vanilla) with CSS animations  
+**Backend:** None (fully client-side)
 
-Stable internet (for model loading)
+---
 
-Your own two feet for following the wrong directions
+### Implementation Overview
+This is a **client-side interactive login page** with no external dependencies.
 
-Implementation
-For Software:
+**How It Works:**
+1. User types credentials → JavaScript checks against hardcoded values
+2. On mismatch:
+   - Button shakes using CSS transforms
+   - Button jumps to a new position based on mouse/touch location
+   - Speed & randomness increase with each failed attempt
+3. On success:
+   - Normal form submission or simulated redirect
+4. No server needed — just open `index.html` in a browser
 
-Installation
+---
 
-bash
-Copy
-Edit
-# No install needed, just open index.html
-Run
+## Installation
+No installation required.
 
-bash
-Copy
-Edit
-# Open in a browser with camera access
-Project Documentation
-Screenshots
+---
 
-Main UI with camera feed and giant “LEFT” arrow. Very confident, completely wrong.
+## Run
+**Method 1:** Double-click `index.html`  
+**Method 2:** Drag `index.html` into any browser  
+**Method 3:** Use Live Server in VS Code
 
-Random Mode showing “BACK” while the user is clearly facing a wall.
+---
 
-Camera Mode detecting a person and giving them an equally useless direction.
+## Project Documentation
 
-Diagrams
+### Screenshots
+![Screenshot1](Add screenshot 1 link) — Caption describing the screenshot  
+![Screenshot2](Add screenshot 2 link) — Caption describing the screenshot  
+![Screenshot3](Add screenshot 3 link) — Caption describing the screenshot  
 
-How chaos flows through our system: Camera → Model → Random Decision → Mislead User.
+---
 
-For Hardware:
+### Diagrams
+![Workflow](Add workflow diagram link) — Caption describing the workflow
 
-Schematic & Circuit
-(Not applicable — the only circuit here is in our brains.)
+---
 
-Build Photos
+## Project Demo
+**Video:** [Add your demo video link here] — This video demonstrates the runaway button in action
 
-Laptop, coffee mug, webcam — the holy trinity.
+**Additional Demos:**  
+[GitHub Repo Link](https://github.com/Harikrishnankanjingattu/FUNLOGIN/tree/main)
 
-Coding late into the night, perfecting uselessness.
+---
 
-The glorious final product on screen, arrows pointing in questionable directions.
-
-Project Demo
-Video
-Demo Video Link — Watch as our “navigation” expertly misguides volunteers into random spots.
-
-Additional Demos
-
-“Follow the Arrow Challenge” video montage.
-
-Team Contributions
-Harikrishnan K: Core JS logic, camera integration, TensorFlow model setup.
+## Team Contributions
+- **Harikrishnan K** — Project development & README creation
