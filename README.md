@@ -64,17 +64,19 @@ No installation required.
 
 ---
 
-## Project Documentation
-
-### Screenshots
-![https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/Screenshot%202025-08-09%20013414.png] — Basic first login section
-![https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/Screenshot%202025-08-09%20013426.png] — Error Username and Password  
-![https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/Screenshot%202025-08-09%20013514.png] — Correct Password
+## Workflow Diagram
+![Workflow Diagram](https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/workflow-diagram.png)
 
 ---
 
-### Diagrams
-![Workflow](Add workflow diagram link) — Caption describing the workflow
+## Project Documentation
+
+### Screenshots
+![Basic First Login Section](https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/Screenshot%202025-08-09%20013414.png) — Basic first login section
+
+![Error Username and Password](https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/Screenshot%202025-08-09%20013426.png) — Error Username and Password
+
+![Correct Password](https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/Screenshot%202025-08-09%20013514.png) — Correct Password
 
 ---
 
