@@ -65,7 +65,7 @@ No installation required.
 ---
 
 ## Workflow Diagram
-![Workflow Diagram](https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/workflow-diagram.png)
+![Workflow Diagram](https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/deepseek_mermaid_20250809_fe3e5d.png)
 
 ---
 
