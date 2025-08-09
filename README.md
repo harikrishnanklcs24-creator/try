@@ -67,9 +67,9 @@ No installation required.
 ## Project Documentation
 
 ### Screenshots
-![Screenshot1](Add screenshot 1 link) — Caption describing the screenshot  
-![Screenshot2](Add screenshot 2 link) — Caption describing the screenshot  
-![Screenshot3](Add screenshot 3 link) — Caption describing the screenshot  
+![https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/Screenshot%202025-08-09%20013414.png] — Basic first login section
+![https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/Screenshot%202025-08-09%20013426.png] — Error Username and Password  
+![https://github.com/Harikrishnankanjingattu/FUNLOGIN/blob/main/Screenshot%202025-08-09%20013514.png] — Correct Password
 
 ---
 
